@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python version
+.python-version
+
+# Data folder
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

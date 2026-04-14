@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+beautifulsoup4
+lxml
+langchain
+langchain-openai
+langchain-community
+chromadb
+tiktoken
+python-multipart
+twilio
